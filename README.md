@@ -1,7 +1,6 @@
-# find_inspiration
+Find Inspiration App UI
 
-A new Flutter project.
-
+An app with 4 Inspiration quotes just to show the example. Happy Fluttering!! 
 ## Getting Started
 
 This project is a starting point for a Flutter application.
