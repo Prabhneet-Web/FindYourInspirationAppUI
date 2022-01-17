@@ -1,0 +1,4 @@
+#Mon Jan 17 23:47:57 IST 2022
+base.0=/Users/prabhneetnarula/Development/Projects/VS Code /App Dev/FindYourInspirationUI/build/app/intermediates/dex/debug/mergeDexDebug/classes.dex
+renamed.0=classes.dex
+path.0=classes.dex
