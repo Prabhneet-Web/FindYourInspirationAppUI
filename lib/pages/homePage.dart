@@ -44,7 +44,6 @@ class _HomePageState extends State<HomePage> {
                           color: Colors.black87,
                           fontSize: 25,
                           fontWeight: FontWeight.w500)),
-                  const SizedBox(height: 5),
                   const Text("Inspiration",
                       style: TextStyle(
                           color: Colors.black87,
